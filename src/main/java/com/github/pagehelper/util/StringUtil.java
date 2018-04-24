@@ -32,7 +32,8 @@ public class StringUtil {
     
     //李瑞更新1
     private int a=10;
-
+   //lr local commit 1
+    private int b=20;
     public static boolean isEmpty(String str) {
         if (str == null || str.length() == 0) {
             return true;
