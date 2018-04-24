@@ -34,6 +34,9 @@ public class StringUtil {
     private int a=10;
    //lr local commit 1
     private int b=20;
+    
+    //remote change 2
+    private int c=21;
     public static boolean isEmpty(String str) {
         if (str == null || str.length() == 0) {
             return true;
