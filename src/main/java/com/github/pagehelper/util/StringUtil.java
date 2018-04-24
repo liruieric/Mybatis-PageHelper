@@ -29,6 +29,9 @@ package com.github.pagehelper.util;
  * @since 4.1.0
  */
 public class StringUtil {
+    
+    //李瑞更新1
+    private int a=10;
 
     public static boolean isEmpty(String str) {
         if (str == null || str.length() == 0) {
